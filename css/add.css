@@ -1,0 +1,216 @@
+#primary_photo_h3 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    background-color: #238ecc;
+    padding: 10px;
+    font-weight: normal;
+}
+
+#h3_f324_0 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+    background-color: #238ecc;
+    font-weight: normal;
+}
+
+#venue_name {
+    background-image: url(semi-transparent-50.png);
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#name {
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#location_h3 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+    background-color: #238ecc;
+    font-weight: normal;
+}
+
+#location_background {
+    background-image: url(semi-transparent-50.png);
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#location {
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#div_f324_0 {
+    width: 300px;
+}
+
+#div_f324_1 {
+    float: left;
+    width: 140px;
+}
+
+#lat_background {
+    background-image: url(semi-transparent-50.png);
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#lat {
+    padding: 10px;
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#div_f324_2 {
+    float: right;
+    width: 140px;
+}
+
+#lon_background {
+    background-image: url(semi-transparent-50.png);
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+#lon {
+    padding: 10px;
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#description_h3 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+    background-color: #238ecc;
+    font-weight: normal;
+}
+
+#photo_descripton_background {
+    background-image: url(semi-transparent-50.png);
+    width: 300px;
+}
+
+#description {
+    padding: 10px;
+    width: 300px;
+    height: 100px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#yelp_rating_h3 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+    background-color: #238ecc;
+    font-weight: normal;
+}
+
+#span_f324_0 {
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#yelp_url_box {
+    background-image: url(semi-transparent-50.png);
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#yelp_url {
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#h3_f324_1 {
+    width: 300px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 10px;
+    background-color: #238ecc;
+    font-weight: normal;
+}
+
+#enter_foursquare_url {
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#foursquare_box {
+    background-image: url(semi-transparent-50.png);
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#foursquare_url {
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: transparent;
+    border: 0px;
+}
+
+#form_save_changes {
+    cursor: pointer;
+    opacity: 1;
+    background-color: #f2c43e;
+    width: 280px;
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#photo {
+    display: none;
+}
